@@ -1,0 +1,24 @@
+{
+  "name": "lista_de_contatos",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.12.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-redux": "^9.3.0",
+    "styled-components": "^6.4.3"
+  },
+  "devDependencies": {
+    "vite": "^5.4.19",
+    "vitest": "^4.1.10"
+  }
+}
