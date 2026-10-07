@@ -1,5 +1,21 @@
-# Vue 3 + Vite
+# Lista de Contatos
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Aplicação web para gerenciamento de contatos, desenvolvida com React. A interface permite cadastrar, editar e remover contatos e demonstra o uso de Redux Toolkit para gerenciamento de estado.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Funcionalidades
+
+- Cadastro de contatos com nome completo, e-mail e telefone.
+- Edição dos dados de um contato existente.
+- Remoção de contatos.
+- Validação básica dos campos obrigatórios e do formato do e-mail.
+- Interface responsiva para diferentes tamanhos de tela.
+- Contatos de exemplo carregados ao iniciar a aplicação.
+
+## Tecnologias
+
+- React
+- JavaScript (ES Modules)
+- Redux Toolkit e React Redux
+- Styled Components
+- Vite
+- Vitest
